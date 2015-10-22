@@ -6,3 +6,5 @@ to simulate remote changes
 >>>>>>> e0bcdca39d3c3331c73aaf22bf18ea27b00b141b
 
 another committed change
+
+changes to master branch
