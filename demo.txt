@@ -1,2 +1,6 @@
 This is file is created for git workflow demo
+<<<<<<< HEAD
 this is conflict with origin master
+=======
+to simulate remote changes 
+>>>>>>> e0bcdca39d3c3331c73aaf22bf18ea27b00b141b
